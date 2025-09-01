@@ -17,7 +17,7 @@ Cara Menjalankan
 
 3. Copy file `.env` dan generate key:
    ```bash
-   cp .env.example .env
+   cp .env.example .env   #Windows: copy .env.example .env
    php artisan key:generate
    ```
 
