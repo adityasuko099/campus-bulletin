@@ -1,7 +1,5 @@
 # Campus Bulletin
 
-Tugas 2 Pengembangan Web
-
 Cara Menjalankan
 1. Clone repository ini:
    ```bash
